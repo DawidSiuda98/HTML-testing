@@ -2,12 +2,20 @@ h1 {
     background-color: rgb(223, 153, 50);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    font-size: 120px;
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
 }
 
 a {
     color: rgb(0, 0, 0);
-    font-size: 80px;
+    font-size: 60px;
 }
 
 body {
