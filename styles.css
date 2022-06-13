@@ -1,8 +1,14 @@
 h1 {
-    background-color: rgb(223, 153, 50);
+    background-color: rgba(0, 0, 0, 0.082);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     font-size: 120px;
+	width: fit-content;
+	height: fit-content;
+	margin: auto;
+	margin-top: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 a {
